@@ -36,10 +36,13 @@ Usaha dalam studi kasus ini adalah barbershop dengan **2 tempat** dan **5 orang*
 ### Jumat, 6 November 2026 — Digitalisasi
 Saya memindahkan data secara manual, langsung dari buku catatan harian ayah saya ke Google Sheets, agar bisa dianalisis. Periodenya Juni–Oktober 2026 untuk 2 tempat.
 
-📄 Data yang masih mentah (format ayah saya): [https://docs.google.com/spreadsheets/d/1ZD19EmWjw8CtG6jBSUqS-JochMYLlkLTpEBcNL1a0Ng/edit?usp=sharing]
+📄 Data yang masih mentah (format ayah saya):
 
-📄 Data yang sudah dirapihkan ; [https://docs.google.com/spreadsheets/d/1TytDP3_KQFijjiTkhRn9CE-tC4I438Mjhblr4Xt7pzc/edit?usp=sharing]
+[https://docs.google.com/spreadsheets/d/1ZD19EmWjw8CtG6jBSUqS-JochMYLlkLTpEBcNL1a0Ng/edit?usp=sharing]
 
+📄 Data yang sudah dirapihkan:
+
+[https://docs.google.com/spreadsheets/d/1TytDP3_KQFijjiTkhRn9CE-tC4I438Mjhblr4Xt7pzc/edit?usp=sharing]
 ### Minggu, 8 November 2026 — Analisis & Dashboard
 Saya menganalisis data dan membangun dashboard untuk melihat kondisi bisnis ayah saya.
 
