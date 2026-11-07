@@ -8,7 +8,7 @@
 
 ## ⚠️ Catatan tentang Data
 
-Proyek ini dibuat dari **data riil** sebuah usaha keluarga. Untuk melindungi privasi pemilik dan karyawan, data yang dipublikasikan di repo ini **sudah dianonimkan**:
+Proyek ini dibuat dari **data riil** keluarga saya. Untuk melindungi privasi saya dan karyawan, data yang dipublikasikan di repo ini **sudah dianonimkan**:
 
 - **Nama** pemilik dan karyawan diganti kode (`Pemilik`, `Karyawan A–D`), dan nama usaha tidak dicantumkan.
 - **Angka pendapatan** dikalikan faktor skala acak yang dirahasiakan, ditambah *noise* acak ±15% per sel, lalu dibulatkan ke kelipatan 5. Proses ini dibantu AI dan dijalankan dengan [`scripts/anonymize.py`](scripts/anonymize.py).
