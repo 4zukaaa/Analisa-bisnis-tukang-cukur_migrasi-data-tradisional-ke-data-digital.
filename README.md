@@ -59,7 +59,9 @@ Saya menganalisis data dan membangun dashboard untuk melihat kondisi bisnis ayah
 4. Membangun dashboard agar pengambil keputusan mudah melihat kondisi riil bisnis
 ```
 
-📊 Dashboard: [https://docs.google.com/spreadsheets/d/1ewKfXSMV89W-08_aGXPeiljWrYLO2g33fdlowHV5xFI/edit?usp=sharing]
+📊 Dashboard: 
+
+[https://docs.google.com/spreadsheets/d/1ewKfXSMV89W-08_aGXPeiljWrYLO2g33fdlowHV5xFI/edit?usp=sharing]
 ---
 
 ## Langkah Detail
